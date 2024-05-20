@@ -1,5 +1,5 @@
 ## Hello 👋
-[LinkedIn](https://linkedin.com/in/%67%69%61%6e%63%61%72%6c%6f-%62%72%61%6e%64%69-1061a52b9)
+[LinkedIn](https://linkedin.com/in/%67%69%61%6e%63%61%72%6c%6f-%62-1061a52b9)
 
 ![](https://komarev.com/ghpvc/?username=gcrbr)
 
