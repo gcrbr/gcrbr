@@ -1,7 +1,7 @@
 ## Hello, welcome to my profile 👋
 
 ### 👥 Get in touch
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50">](https://linkedin.com/in/%67%69%61%6e%63%61%72%6c%6f-%62-1061a52b9)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/giancarlo-brandi-1061a52b9/)
 
 ### 🚀 Projects
 - [malatia](https://github.com/gcrbr/malatia) - Low-cost journey searcher in Europe
